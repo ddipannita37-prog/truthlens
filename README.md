@@ -1,13 +1,6 @@
 # TruthLens 🔍  
 **See through the hype. One claim at a time.**
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%97_Live_Demo-Try_Now-34bfba?style=for-the-badge&logo=googlecloud)](https://your-truthlens-agent-url-here.a.run.app)  
-![LLM](https://img.shields.io/badge/LLM-Gemma_3_270M-34bfba?style=flat&logo=google)  
-![Platform](https://img.shields.io/badge/Platform-Google_Cloud_Run-4285F4?style=flat&logo=googlecloud)  
-![GPU](https://img.shields.io/badge/GPU-NVIDIA_L4-ff3b3b?style=flat&logo=nvidia)  
-![Privacy](https://img.shields.io/badge/Privacy-No_Logs_%E2%9C%85-success)  
-![Open Source](https://img.shields.io/badge/Open_Source-%E2%9D%A4-ff69b4)
-
 > An AI-powered **bullsh*t detector** that instantly analyzes ads, emails, social posts, contracts, or any suspicious text — and gives you the truth in plain English.
 
 ## 🚨 The Problem
